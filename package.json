@@ -1,0 +1,25 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-page -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloProg/Landing-page.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Camilo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamiloProg/Landing-page/issues"
+  },
+  "homepage": "https://github.com/CamiloProg/Landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
